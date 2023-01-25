@@ -1,3 +1,7 @@
+body {
+  counter-reset: cancion;
+}
+
 h2::before {
   counter-increment: cancion;
   content: "Canción " counter(cancion) ": ";
