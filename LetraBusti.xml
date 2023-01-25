@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<titulo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Letras.xsd">Dos hombres y un destino</titulo>
+	<autor>David Bustamante</autor>
+	
+	<letra>
+		
+		<tipo>normal</tipo>
+		<estrofa>
+			<verso>Ella tiene todo lo que siempre soñé</verso>
+			<verso>es la chica que busqué,</verso>
+			<verso>es la chispa de mi piel,</verso>
+			<verso>mi primer amor, mi primera vez.</verso>
+		</estrofa>
+		
+		<tipo>normal</tipo>
+		<estrofa>
+			<verso>Ella es el regalo que tanto esperé</verso>
+			<verso>cuando no pensaba ya,</verso>
+			<verso>el volverme a enamorar.</verso>
+			<verso>Ella es como el Sol de otro amanecer.</verso>
+		</estrofa>
+		
+		<tipo>estribillo</tipo>
+		<estrofa>
+			<verso>Por el amor de esa mujer</verso>
+			<verso>somos dos hombres con un mismo destino.</verso>
+			<verso>Pero yo se que ella me quiere a mi</verso>
+			<verso>y que juega contigo.</verso>
+		</estrofa>
+		<tipo>estribillo</tipo>
+		<estrofa>
+			<verso>Por el amor de esa mujer</verso>
+			<verso>somos dos hombres con un mismo destino.</verso>
+			<verso>Y aunque me digas que ella es para ti</verso>
+			<verso>y aunque seas mi amigo, lucharé.</verso>
+		</estrofa>
+		
+		<tipo>normal</tipo>
+		<estrofa>
+			<verso>Cuando está conmigo la hago mujer.</verso>
+			<verso>Le doy todo lo que se,</verso>
+			<verso>mi futuro y mi ayer,</verso>
+			<verso>la se despertar, la se comprender.</verso>
+		</estrofa>
+		
+		<tipo>normal</tipo>
+		<estrofa>
+			<verso>Cuando está conmigo es niña otra vez,</verso>
+			<verso>cada beso sabe a miel.</verso>
+			<verso>Es amiga de los dos</verso>
+			<verso>pero en el amor jugamos los tres.</verso>
+		</estrofa>
+		
+		<tipo>estribillo</tipo>
+		<estrofa>
+			<verso>Por el amor de esa mujer</verso>
+			<verso>somos dos hombres con un mismo destino.</verso>
+			<verso>Pero yo se que ella me quiere a mi</verso>
+			<verso>y que juega contigo.</verso>
+		</estrofa>
+		
+		<tipo>estribillo</tipo>
+		<estrofa>
+			<verso>Por el amor de esa mujer</verso>
+			<verso>somos dos hombres con un mismo destino.</verso>
+			<verso>Y aunque me digas que ella es para ti</verso>
+			<verso>y aunque seas mi amigo, lucharé, lucharé. Lucharé.</verso>
+			<verso>Lucharé. Lucharé."</verso>
+		</estrofa>
+		
+	</letra>
+</cancion>
