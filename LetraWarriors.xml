@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cancion>
+<cancion  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:noNamespaceSchemaLocation="file:///C:/Users/%C3%81lvaro/Documents/AlvaroGomez/REP%20p%C3%BAblicos/CancionesXML/LetraWarriors.xsd">
 	
 	<titulo>Warriors</titulo>
 	<autor>Imagine Dragons</autor>
