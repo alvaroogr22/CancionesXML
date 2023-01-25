@@ -10,10 +10,17 @@
 			</body>
 		</html>
 	</xsl:template>
-		
-	<xsl:template match="cancion/autor">
-		<autor>
+
+	<xsl:template match="autor">
+		<p>
 			<xsl:value-of select="."/>
-		</autor>
+		</p>
+	</xsl:template>
+	
+	<xsl:template match="titulo"></xsl:template>
+	<xsl:template>
+		<h2>
+			<xsl:value-of select="."></xsl:value-of>
+		</h2>
 	</xsl:template>
 </xsl:stylesheet>
