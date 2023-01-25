@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<titulo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Letras.xsd">Dos hombres y un destino</titulo>
+<cancion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Letras.xsd">
+	<titulo>Dos_hombres_y_un_destino</titulo>
 	<autor>David Bustamante</autor>
 	
 	<letra>
