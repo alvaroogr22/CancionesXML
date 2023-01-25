@@ -16,10 +16,4 @@
 			<xsl:value-of select="."/>
 		</autor>
 	</xsl:template>
-	
-	<xsl:template match="cancion/titulo">
-		<letra>
-			<xsl:value-of select="."/>
-		</letra>
-	</xsl:template>
-	</xsl:stylesheet>
+</xsl:stylesheet>
