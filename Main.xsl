@@ -17,8 +17,7 @@
 		</p>
 	</xsl:template>
 	
-	<xsl:template match="titulo"></xsl:template>
-	<xsl:template>
+	<xsl:template match="titulo">
 		<h2>
 			<xsl:value-of select="."></xsl:value-of>
 		</h2>

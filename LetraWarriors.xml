@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cancion  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-	xsi:noNamespaceSchemaLocation="/LetraWarriors.xsd">
+	xsi:noNamespaceSchemaLocation="Letras.xsd">
 	
 	<titulo>Warriors</titulo>
 	<autor>Imagine Dragons</autor>
