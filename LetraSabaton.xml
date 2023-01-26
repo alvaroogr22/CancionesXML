@@ -1,80 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
-  <cancion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Letras.xsd">
+<?xml-stylesheet type="text/xsl" href="Main.xsl"?>
+  
+<cancion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Letras.xsd">
+    
     <titulo>Stormtroopers</titulo>
     <autor>Sabaton</autor>
+    
     <letra>
       
-<tipo>normal</tipo>
-<estrofa>
-  <verso>Now there's a standstill in the war, repeating what's been done before</verso>
-  <verso>It must come to an end, a few will transcend</verso>
-  <verso>They were under 25, and under fire they would thrive</verso>
-  <verso>The Sturmmann is born, their enemies scorn</verso>
-  <verso>A glimpse of the future, new tactics in war</verso>
-  <verso>New doctrine in combat explored</verso>
-  <verso>As fast as lightning, there's no time to mourn</verso>
-  <verso>A glimpse of the future and Blitzkrieg is born</verso>
-</estrofa>
+        <tipo>normal</tipo>
+        <estrofa>
+            <verso>Now there's a standstill in the war, repeating what's been done before</verso>
+            <verso>It must come to an end, a few will transcend</verso>
+            <verso>They were under 25, and under fire they would thrive</verso>
+            <verso>The Sturmmann is born, their enemies scorn</verso>
+            <verso>A glimpse of the future, new tactics in war</verso>
+            <verso>New doctrine in combat explored</verso>
+            <verso>As fast as lightning, there's no time to mourn</verso>
+            <verso>A glimpse of the future and Blitzkrieg is born</verso>
+        </estrofa>
       
-<estrofa>
-<tipo>estribillo</tipo>
-  <verso>Strike at zero hour</verso>
-  <verso>With overwhelming firepower</verso>
-  <verso>They're fueled by the fear in their enemies eyes</verso>
-  <verso>It's a shock troop infiltration</verso>
-  <verso>A fast and violent escalation</verso>
-  <verso>Out of the trenches the Stormtroopers rise!</verso>
-</estrofa>
+        <estrofa>
+        <tipo>estribillo</tipo>
+            <verso>Strike at zero hour</verso>
+            <verso>With overwhelming firepower</verso>
+            <verso>They're fueled by the fear in their enemies eyes</verso>
+            <verso>It's a shock troop infiltration</verso>
+            <verso>A fast and violent escalation</verso>
+            <verso>Out of the trenches the Stormtroopers rise!</verso>
+        </estrofa>
 			
-<tipo>normal</tipo>
-<estrofa>
-  <verso>Jägers led the way, the pioneers would join the fray</verso>
-  <verso>Initiative gained, advancement sustained</verso>
-  <verso>Lead through direct command, as they're advancing through the land</verso>
-  <verso>Encircling their flanks, and ravage their ranks</verso>
-  <verso>Expose their reinforcements, destroying their lines</verso>
-  <verso>New doctrine in combat aligns</verso>
-  <verso>Infantry attacks, exposing the cracks</verso>
-  <verso>New combat ideals, on the Kaiserschlacht's fields</verso>
-</estrofa>
+        <tipo>normal</tipo>
+        <estrofa>
+            <verso>Jägers led the way, the pioneers would join the fray</verso>
+            <verso>Initiative gained, advancement sustained</verso>
+            <verso>Lead through direct command, as they're advancing through the land</verso>
+            <verso>Encircling their flanks, and ravage their ranks</verso>
+            <verso>Expose their reinforcements, destroying their lines</verso>
+            <verso>New doctrine in combat aligns</verso>
+            <verso>Infantry attacks, exposing the cracks</verso>
+            <verso>New combat ideals, on the Kaiserschlacht's fields</verso>
+        </estrofa>
       
-<estrofa>
-<tipo>estribillo</tipo>
-  <verso>Strike at zero hour</verso>
-  <verso>With overwhelming firepower</verso>
-  <verso>They're fueled by the fear in their enemies eyes</verso>
-  <verso>It's a shock troop infiltration</verso>
-  <verso>A fast and violent escalation</verso>
-  <verso>Out of the trenches the Stormtroopers rise!</verso>
-</estrofa>
+        <estrofa>
+        <tipo>estribillo</tipo>
+            <verso>Strike at zero hour</verso>
+            <verso>With overwhelming firepower</verso>
+            <verso>They're fueled by the fear in their enemies eyes</verso>
+            <verso>It's a shock troop infiltration</verso>
+            <verso>A fast and violent escalation</verso>
+            <verso>Out of the trenches the Stormtroopers rise!</verso>
+        </estrofa>
 
-<estrofa>
-<tipo>normal</tipo>
-  <verso>A glimpse of the future, new tactics in war</verso>
-  <verso>New doctrine in combat explored</verso>
-  <verso>As fast as lightning, there's no time to mourn</verso>
-  <verso>A glimpse of the future and Blitzkrieg is born</verso>
-</estrofa>
+        <estrofa>
+         <tipo>normal</tipo>
+            <verso>A glimpse of the future, new tactics in war</verso>
+            <verso>New doctrine in combat explored</verso>
+            <verso>As fast as lightning, there's no time to mourn</verso>
+            <verso>A glimpse of the future and Blitzkrieg is born</verso>
+        </estrofa>
 			
-<estrofa>
-<tipo>estribillo</tipo>
-  <verso>Strike at zero hour</verso>
-  <verso>With overwhelming firepower</verso>
-  <verso>They're fueled by the fear in their enemies eyes</verso>
-  <verso>It's a shock troop infiltration</verso>
-  <verso>A fast and violent escalation</verso>
-  <verso>Out of the trenches the Stormtroopers rise!</verso>
-</estrofa>
+        <estrofa>
+        <tipo>estribillo</tipo>
+            <verso>Strike at zero hour</verso>
+            <verso>With overwhelming firepower</verso>
+            <verso>They're fueled by the fear in their enemies eyes</verso>
+            <verso>It's a shock troop infiltration</verso>
+            <verso>A fast and violent escalation</verso>
+            <verso>Out of the trenches the Stormtroopers rise!</verso>
+        </estrofa>
 
-<estrofa>
-<tipo>estribillo</tipo>
-  <verso>Strike at zero hour</verso>
-  <verso>With overwhelming firepower</verso>
-  <verso>They're fueled by the fear in their enemies eyes</verso>
-  <verso>It's a shock troop infiltration</verso>
-  <verso>A fast and violent escalation</verso>
-  <verso>Out of the trenches the Stormtroopers rise!</verso>
-</estrofa>
+        <estrofa>
+        <tipo>estribillo</tipo>
+            <verso>Strike at zero hour</verso>
+            <verso>With overwhelming firepower</verso>
+            <verso>They're fueled by the fear in their enemies eyes</verso>
+            <verso>It's a shock troop infiltration</verso>
+            <verso>A fast and violent escalation</verso>
+            <verso>Out of the trenches the Stormtroopers rise!</verso>
+        </estrofa>
 
     </letra>
-    </cancion>
+</cancion>

@@ -12,14 +12,25 @@
 	</xsl:template>
 
 	<xsl:template match="autor">
-		<p>
+		<h2>
 			<xsl:value-of select="."/>
-		</p>
+		</h2>
 	</xsl:template>
 	
 	<xsl:template match="titulo">
-		<h2>
+		<h1>
 			<xsl:value-of select="."></xsl:value-of>
-		</h2>
+		</h1>
 	</xsl:template>
+	
+	<xsl:template match="estrofa/verso">
+		<p>
+			<strong>
+				<xsl:value-of select="."></xsl:value-of>
+			</strong>
+		</p>
+	</xsl:template>
+	
+	<xsl:template match="tipo"/>
+	
 </xsl:stylesheet>
