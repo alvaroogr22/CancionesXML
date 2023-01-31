@@ -1,19 +1,20 @@
 * {
   text-align: center;
 }
-
 body {
-  counter-reset: cancion;
-  counter-reset: versos;
+  counter-reset: section;
 }
-
 h2::before {
-  counter-increment: cancion;
-  content: "Cancion " counter(cancion) ": ";
+  counter-increment: section;
+  content: "Esfrofa " counter(section) ": ";
 }
-
-p::before {
-  counter-increment: versos;
-  content: "Verso " counter(verso) ": ";
-  color: red;
+h2 {
+  text-decoration:underline;
+}
+h3 {
+  color: grey;
+}
+p {
+  color: black;
+  font-weight: 600;
 }
