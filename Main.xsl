@@ -3,23 +3,41 @@
 	<xsl:template match="/">
 		<html>
 			<head>
-				<link rel="stylesheet" src="Style.css"/>
+				<link href="numeracion.css" type="text/css" rel="stylesheet"/>
 			</head>
 			<body>
 				<xsl:apply-templates/>
 			</body>
 		</html>
 	</xsl:template>
-
+	
+	<xsl:template match="titulo">
+		<h1>
+			<xsl:value-of select="."/>
+		</h1>
+	</xsl:template>
+			
+	<xsl:template match="contador">
+		<h2>
+			<xsl:value-of select="."/>
+		</h2>
+	</xsl:template>
+	
 	<xsl:template match="autor">
+		<h3>
+			<xsl:value-of select="."/>
+		</h3>
+	</xsl:template>
+		
+	<xsl:template match="tipo">
+		<span>
+			<xsl:value-of select="."/>
+		</span>
+	</xsl:template>
+	
+	<xsl:template match="verso">
 		<p>
 			<xsl:value-of select="."/>
 		</p>
-	</xsl:template>
-	
-	<xsl:template match="titulo">
-		<h2>
-			<xsl:value-of select="."></xsl:value-of>
-		</h2>
 	</xsl:template>
 </xsl:stylesheet>

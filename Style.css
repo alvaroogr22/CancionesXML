@@ -1,8 +1,19 @@
+* {
+  text-align: center;
+}
+
 body {
   counter-reset: cancion;
+  counter-reset: versos;
 }
 
 h2::before {
   counter-increment: cancion;
-  content: "Canción " counter(cancion) ": ";
+  content: "Cancion " counter(cancion) ": ";
+}
+
+p::before {
+  counter-increment: versos;
+  content: "Verso " counter(verso) ": ";
+  color: red;
 }
