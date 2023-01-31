@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="Main.xsl"?>
-  
+
 <cancion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Letras.xsd">
-    
+
     <titulo>Stormtroopers</titulo>
     <autor>Sabaton</autor>
     <letra>
@@ -17,7 +17,7 @@
             <verso>As fast as lightning, there's no time to mourn</verso>
             <verso>A glimpse of the future and Blitzkrieg is born</verso>
         </estrofa>
-      
+
         <estrofa>
             <contador>estribillo</contador>
             <verso>Strike at zero hour</verso>
@@ -27,7 +27,7 @@
             <verso>A fast and violent escalation</verso>
             <verso>Out of the trenches the Stormtroopers rise!</verso>
         </estrofa>
-			
+
         <estrofa>
             <contador>normal</contador>
             <verso>Jägers led the way, the pioneers would join the fray</verso>
@@ -39,7 +39,7 @@
             <verso>Infantry attacks, exposing the cracks</verso>
             <verso>New combat ideals, on the Kaiserschlacht's fields</verso>
         </estrofa>
-      
+
         <estrofa>
             <contador>estribillo</contador>
             <verso>Strike at zero hour</verso>
@@ -57,7 +57,7 @@
             <verso>As fast as lightning, there's no time to mourn</verso>
             <verso>A glimpse of the future and Blitzkrieg is born</verso>
         </estrofa>
-			
+
         <estrofa>
             <contador>estribillo</contador>
             <verso>Strike at zero hour</verso>
